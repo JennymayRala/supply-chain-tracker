@@ -33,5 +33,5 @@ To test the app on your Android phone:
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/AuthApp.git
+git clone [https://github.com/your-username/AuthApp.git](https://github.com/JennymayRala/supply-chain-tracker.git)
 cd AuthApp
