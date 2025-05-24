@@ -21,7 +21,7 @@ A mobile authentication app built using **React Native** and **Expo Go**, design
 
 To test the app on your Android phone:
 
-➡️ **[[Download APK from Expo Dev](https://expo.dev/accounts/coraca/projects/my-auth-app/builds/7909d98d-93bf-4c07-ae7a-e43051057f0a)](#)**  
+➡️ **[[Download APK from Expo Dev](https://expo.dev/accounts/jenny77/projects/my-auth-app/builds/7909d98d-93bf-4c07-ae7a-e43051057f0a)](#)**  
 *(Replace with your actual Expo or APK link)*
 
 > 📌 Open the link using your Android device browser.
